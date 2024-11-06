@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yash-thakkar.com](https://yash-thakkar.com)
 
-- 💬 Ask me about **Svelte.js, Sveltekit, React.js, Next,js, Python, Django**
+- 💬 Ask me about **Svelte.js, Sveltekit, React.js, Next,js, Python, Django, PyTorch, Numpy**
 
 - 📫 How to reach me **thakkaryash21@gmail.com**
 
