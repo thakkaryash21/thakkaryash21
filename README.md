@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thakkaryash21@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://yash-thakkar.com/docs/Yash%20Thakkar%20Software%20Engineer%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://yash-thakkar.com/docs/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
